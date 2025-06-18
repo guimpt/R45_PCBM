@@ -1,0 +1,27 @@
+History
+Project Logs*
+Project outputs*
+__Previews
+PowerAnalyzer*
+old
+
+# Node artifact files
+.settings/
+Debug
+Release
+render
+
+# Files
+*.launch
+*.list
+*.map
+*.cyclo
+*.o
+*.su
+*.mk
+*.txt
+*.stl
+*.step
+*.gif
+*.dxf
+*.3mf
